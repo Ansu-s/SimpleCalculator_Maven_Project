@@ -1,4 +1,4 @@
-package com.Calculator.java;
+package java.calculator;
 
 public class SimpeCalculator {
 
